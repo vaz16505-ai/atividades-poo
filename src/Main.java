@@ -1,5 +1,3 @@
-package app;
-
 import modelo.CDPlayer;
 import modelo.DVDPlayer;
 import modelo.Studio;
